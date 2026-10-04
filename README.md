@@ -62,7 +62,7 @@ server-health-monitor/
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/server-health-monitor.git
+git clone https://github.com/gauravkumarbel/server-health-monitor.git
 
 2. Enter the project directory
 cd server-health-monitor
@@ -197,9 +197,9 @@ Monitoring and observability
 
 👨‍💻 Author
 
-Your Name
+Your GAURAV KUMAR
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/gauravkumarbel
 
 📄 License
 
