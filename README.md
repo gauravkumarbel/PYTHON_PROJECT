@@ -62,7 +62,7 @@ server-health-monitor/
 
 ⚙️ Installation
 1. Clone the repository
-git clone https://github.com/gauravkumarbel/PYTHON_PROJECT/server-health-monitor.git
+git clone https://github.com/gauravkumarbel/PYTHON_PROJECT.git
 
 2. Enter the project directory
 cd server-health-monitor
